@@ -1,0 +1,5 @@
+﻿1、innerHTML
+2、scrollTop
+3、offsetHeight
+4、setInterval
+5、clearInterval
